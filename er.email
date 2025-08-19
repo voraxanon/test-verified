@@ -1,0 +1,74 @@
+[33mcommit 2690fc677eecca12cd454f32a4c1ccb444b778cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+[41mgpg: Signature made Mon Aug 18 22:42:29 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:42:29 2025 +0100
+
+    test: commit assinado depois de adicionar a GPG key
+
+[33mcommit 75e69290e00573c26913ad0633559043d94a884c[m
+[41mgpg: Signature made Mon Aug 18 22:37:23 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:37:23 2025 +0100
+
+    test: verified ping
+
+[33mcommit 8f91cdc2121fe42b2188106b9626787c6b1e79a6[m
+[41mgpg: Signature made Mon Aug 18 22:36:38 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:36:38 2025 +0100
+
+    test: commit assinado para verificação
+
+[33mcommit cacf4cbef2f36c138b8cdbae1f4bd0bc7f90492b[m
+[41mgpg: Signature made Mon Aug 18 21:23:12 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 21:23:12 2025 +0100
+
+    chore: README com commit assinado
+
+[33mcommit 196bbbcfd6ebb7ef63c849e47ea8efa807c1c767[m
+[33mcommit 2690fc677eecca12cd454f32a4c1ccb444b778cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+[41mgpg: Signature made Mon Aug 18 22:42:29 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:42:29 2025 +0100
+
+    test: commit assinado depois de adicionar a GPG key
+
+[33mcommit 75e69290e00573c26913ad0633559043d94a884c[m
+[41mgpg: Signature made Mon Aug 18 22:37:23 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:37:23 2025 +0100
+
+    test: verified ping
+
+[33mcommit 8f91cdc2121fe42b2188106b9626787c6b1e79a6[m
+[41mgpg: Signature made Mon Aug 18 22:36:38 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 22:36:38 2025 +0100
+
+    test: commit assinado para verificação
+
+[33mcommit cacf4cbef2f36c138b8cdbae1f4bd0bc7f90492b[m
+[41mgpg: Signature made Mon Aug 18 21:23:12 2025 HVGMT[m
+[41mgpg:                using RSA key C31426F0A498FEC4D2561350AF7B3AD4501572BF[m
+[41mgpg: Can't check signature: No public key[m
+Author: Voraxanon <voraxanon@proton.me>
+Date:   Mon Aug 18 21:23:12 2025 +0100
+
+    chore: README com commit assinado
+
+[33mcommit 196bbbcfd6ebb7ef63c849e47ea8efa807c1c767[m
